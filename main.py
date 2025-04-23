@@ -17,4 +17,5 @@ print(f"Oto wszystkie zera w zbiorze: {zeros}")
 print(f"Oto liczby różne od zera w zbiorze: {rest}")
 
 
-print("Kolega")
+print("hello world Kolega")
+
