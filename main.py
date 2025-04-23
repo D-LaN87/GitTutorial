@@ -15,3 +15,6 @@ zeros = (list[1:4], list[5:10], list[-2:])
 rest = list[:1], list[4:5], list[10:12]
 print(f"Oto wszystkie zera w zbiorze: {zeros}")
 print(f"Oto liczby różne od zera w zbiorze: {rest}")
+
+
+print("Kolega")
